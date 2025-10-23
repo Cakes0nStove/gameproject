@@ -1,1 +1,10 @@
+<h1>Game Project</h1>
+<p align="center">
+  <img src="assets/photo2.jpg" alt="App Screenshot" width="800"/>
+</p>
+<p align="center">
+  <img src="assets/photo1.jpg" alt="App Screenshot" width="800"/>
+</p>
+<h2>Project Overview</h2>
+
 This project involves the development of a side-scrolling game that incorporates character interaction, environment rendering, and core game mechanics. The objective of the game is for the main character to collect golden stars and ultimately reach the end goal, represented by a flag. The character is controlled using the W,A,S,D keys, allowing the player to move left, right, and jump, while avoiding falling into gaps in the ground. The game integrates collision detection to handle interactions with both collectable items and obstacles such as canyons. In addition to the gameplay mechanics, I designed the character and the environment, implementing various animations for the character's movement, such as walking, jumping, and falling. In terms of programming, to achieve this I used arrays, variables, functions, for loops and if statements to create interaction with the game.
